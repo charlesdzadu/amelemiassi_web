@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <div>Bienvenue. C'est vide oui.. nous sommes entrain de travailler !</div>
 </template>
 
 <script>
