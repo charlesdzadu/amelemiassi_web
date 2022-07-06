@@ -8,7 +8,7 @@
           Les conditions d'utilisations
         </button>
       </nuxt-link>
-      <nuxt-link to="politique-de-confidentialite">
+      <nuxt-link to="/cgu/politique-de-confidentialite">
         <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
           La politique de confidentialité
         </button>
